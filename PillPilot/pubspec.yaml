@@ -1,0 +1,6 @@
+name: pillpilot
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider:
