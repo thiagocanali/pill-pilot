@@ -1,0 +1,26 @@
+# Flutter
+.dart_tool/
+.packages
+.pub/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Android
+android/.gradle/
+android/local.properties
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+
+# Firebase Secrets
+google-services.json
+GoogleService-Info.plist
+firebase_options.dart
+
+# Generated
+*.lock
